@@ -1,5 +1,5 @@
 # Learn Verse
 
-Links to learn Verse and Scene Graph, from the Unreal Dev Days EMEA talk "Making development fast and intuitive with Verse".
+Links to learn Verse and Scene Graph: the language, the documentation, and where to ask questions.
 
 Live page: https://magnusenebakk-epic.github.io/learn-verse/
